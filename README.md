@@ -4,5 +4,6 @@
 
 ## Esta parte se corresponde con el back-end y se realizó con Java, spring boot y PostgreSQL. Existe otra parte de front-end con el diseño realizado con html, css y javascript con React,  Aquí puede acceder al enlace: https://github.com/anamariamad/Portfolio.React.git
 
-![postman](https://github.com/anamariamad/PortfolioBack/assets/134279099/b9e32963-bf62-430b-a040-e6a3611d39a0)
+
+![imagen postman](https://github.com/anamariamad/PortfolioBackend/assets/134279099/a6b7c495-3b4f-4cc8-8735-21108921138e)
 
