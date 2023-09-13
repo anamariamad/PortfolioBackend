@@ -1,6 +1,6 @@
 # Backend para realizar un porfolio full-Stack
 
-## Desarrollar un portfolio con front-end y back-end
+## Desarrollar un portfolio con front-end y back-end:
 
 ## Esta parte se corresponde con el back-end y se realizó con Java, spring boot y PostgreSQL. Existe otra parte de front-end con el diseño realizado en React, Html, Css, Javascript. Aquí puede acceder al enlace: https://github.com/anamariamad/Portfolio.React.git
 
